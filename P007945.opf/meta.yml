@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN7648
   title: དཔལ་གསང་བ་འདུས་པ་ཞེས་བྱ་བའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ།
-  volume: ''
+  volume:
+    4371578d23c4430e9b4b1f1f25fd304e:
+      image_group_id: I3CN7650
+      title: Volume 1 of dpal gsang ba 'dus pa zhes bya ba'i rgyud kyi rgyal po chen
+        po/
+      volume_number: 1
+      total_pages: 146
   author: ''
+ebook_metadata:
+  title: དཔལ་གསང་བ་འདུས་པ་ཞེས་བྱ་བའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ།
+  author: ''
+  sku: P007945
+  cover: cover.jpg
+  layers:
+  - pagination
